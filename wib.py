@@ -7,7 +7,7 @@ from googletrans import Translator
 
 #client = LineClient(authToken='')
 #client = LineClient() Untuk Login Lewat Qr
-client = LineClient(id='email', passwd='pass')
+client = LineClient(id='corazoncz2@hotmail.com', passwd='neng14541')
 #client = LineClient(authToken='Token Mu') Untuk Login Via Token
 client.log("Auth Token : " + str(client.authToken))
 
